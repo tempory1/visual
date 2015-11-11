@@ -23,6 +23,7 @@
             //iterate through each textboxes and add the values
             $(".txt").each(function () {
                 //add only if the value is number
+                // hahahah
                 if (!isNaN(this.value) && this.value.length != 0) {
                     sum += parseFloat(this.value);
                     $(this).css("background-color", "#FEFFB0");
