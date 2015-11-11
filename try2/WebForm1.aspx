@@ -69,6 +69,7 @@
 </table>
     
     </div>
+        <asp:RadioButton ID="RadioButton1" runat="server" />
     </form>
 </body>
 </html>
