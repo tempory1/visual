@@ -24,6 +24,7 @@
             $(".txt").each(function () {
                 //add only if the value is number
                 // hahahah
+                //edit by song
                 if (!isNaN(this.value) && this.value.length != 0) {
                     sum += parseFloat(this.value);
                     $(this).css("background-color", "#FEFFB0");
