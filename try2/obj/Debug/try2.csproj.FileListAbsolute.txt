@@ -1,0 +1,11 @@
+c:\users\song\documents\visual studio 2013\Projects\try2\try2\bin\try2.dll.config
+c:\users\song\documents\visual studio 2013\Projects\try2\try2\bin\try2.dll
+c:\users\song\documents\visual studio 2013\Projects\try2\try2\bin\try2.pdb
+c:\users\song\documents\visual studio 2013\Projects\try2\try2\obj\Debug\try2.dll
+c:\users\song\documents\visual studio 2013\Projects\try2\try2\obj\Debug\try2.pdb
+F:\try2\try2\bin\try2.dll.config
+F:\try2\try2\bin\try2.dll
+F:\try2\try2\bin\try2.pdb
+F:\try2\try2\obj\Debug\try2.csprojResolveAssemblyReference.cache
+F:\try2\try2\obj\Debug\try2.dll
+F:\try2\try2\obj\Debug\try2.pdb
